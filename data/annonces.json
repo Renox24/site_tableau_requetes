@@ -1,0 +1,12 @@
+[
+  {
+    "titre": "Construire une tour de guet",
+    "description": "Apporter des blocs de pierre et de bois pour bâtir une tour à l'entrée du village.",
+    "recompense": "10 émeraudes"
+  },
+  {
+    "titre": "Livrer 64 lingots de fer",
+    "description": "Le forgeron a besoin de fer pour fabriquer de l'équipement.",
+    "recompense": "1 pioche en diamant"
+  }
+]
