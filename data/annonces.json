@@ -1,12 +1,12 @@
 [
   {
-    "titre": "Construire une tour de guet",
-    "description": "Apporter des blocs de pierre et de bois pour bâtir une tour à l'entrée du village.",
-    "recompense": "10 émeraudes"
+    "titre": "x1 trident",
+    "description": "Besoin d'un trident pour finaliser la construction du livre magique.",
+    "recompense": "Livre magique"
   },
   {
-    "titre": "Livrer 64 lingots de fer",
-    "description": "Le forgeron a besoin de fer pour fabriquer de l'équipement.",
-    "recompense": "1 pioche en diamant"
+    "titre": "Enormément d' éclat de cristal lumineux (luminous crystal shard)",
+    "description": "Pour enchanter nos équipements (armes/armures) on aura besoin d'un gros stock de crystal lumineux.",
+    "recompense": "Meilleurs équipements"
   }
 ]
