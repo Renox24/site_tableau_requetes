@@ -8,5 +8,10 @@
     "titre": "Enormément d' éclat de cristal lumineux (luminous crystal shard)",
     "description": "Pour enchanter nos équipements (armes/armures) on aura besoin d'un gros stock de crystal lumineux.",
     "recompense": "Meilleurs équipements"
+  },
+  {
+    "titre": "Grande quantité de hogskin",
+    "description": "Afin d'améliorer la capacité de stocker des sorts de vos spellbook(livres).",
+    "recompense": "Plus de spell dans vos livres"
   }
 ]
